@@ -1,0 +1,9 @@
+.component1{
+  background: navy;
+  color: gold;
+  font: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 5em;
+  padding: 20px 100px;
+  text-align: center;
+}
